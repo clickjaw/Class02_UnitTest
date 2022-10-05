@@ -1,10 +1,10 @@
-﻿using System;
-using FizzBuzz;
+using System;
+using TestingDemo;
 using Xunit;
 
-namespace DemoTesting
+namespace FizzBuzzTests
 {
-    public class UnitTest
+    public class UnitTest1
     {
         [Fact]
         public void CanReturnString()
